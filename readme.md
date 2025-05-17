@@ -1,6 +1,6 @@
 # wcalc
 
-wcalc (WaxusBS calc) is a simple calculator for WaxusBS. It takes 2 numbers and command (+, -, * or /).
+wcalc (WaxusBS calc) is a simple calculator for WaxusBS. It takes 2 numbers and a command (+, -, * or /).
 
 # Languages
 
